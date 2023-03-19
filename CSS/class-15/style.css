@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.btn {
+    background-color: crimson;
+    padding: 20px 40px;
+    color: wheat;
+    font-weight: bold;
+    width: 200px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+
+    transition: all 1s ease;
+    animation: slideInLeft 2s forwards;
+    
+}
+
+.btn:hover {
+    background-color: rgb(155, 20, 47);
+    transform: scale(1.2);
+}
+
+.parent {
+    width: 400px;
+    height: 400px;
+    background-color: crimson;
+
+}
+
+.child {
+    width: 50%;
+    height: 50%;
+    background-color: yellowgreen;
+    /* transition: all 1s cubic-bezier(0.24, 0.35, 0.86, 1.5); */
+    animation: circle 3s forwards alternate infinite;
+    animation-play-state: paused;
+    
+}
+
+
+.parent:hover  .child{
+    /* transform: translateX(100%); */
+    /* background-color: chartreuse; */
+    animation-play-state: running;
+    
+    
+}
+
+
+@keyframes slideInLeft {
+    from {
+    transform: translateX(-200px);
+    }
+
+    to {
+        transform: translateX(300px);
+    }
+}
+
+
+@keyframes circle {
+    33% {
+        transform: translateY(100%);
+    }
+
+    66% {
+        transform: translate(100%, 100%);
+    }
+
+    100% {
+        transform: translateX(100%);
+    }
+}

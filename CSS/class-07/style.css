@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+*{
+    font-family: 'Oswald', sans-serif;
+}
+
+#heading{
+    font-family: 'Oswald', sans-serif; 
+    font-size: 30px;
+    font-weight: 600;
+}
+
+a{
+    text-decoration: overline double red;
+    color: red;
+}
+
+body{
+    background-color: red;
+}
+
+.head2{
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    color: rgba(0, 78, 25, 0.896);
+}
+
+.para{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 130px;
+    /* word-spacing: 16px; */
+    /* letter-spacing: 3px; */
+    line-height: 20px;
+    font-style: italic;
+    
+}

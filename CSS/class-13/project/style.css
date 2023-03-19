@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz@6..96&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    display: flex;
+    height: 100vh;
+    font-family: 'Bodoni Moda', serif;
+    align-items: center;
+    justify-content: space-evenly;
+    background: linear-gradient(to right, #283618, #606c38);
+}
+
+.text {
+    flex-basis: 30%;
+    text-align: center;
+    color: white;
+}
+
+.heading {
+    font-size: 3rem;
+}
+
+.qoute {
+    font-size: 1.2rem;
+}
+
+.box {
+    background-size: cover;
+    background-position: top;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #222;
+    background-blend-mode: hard-light;
+
+    transition: all 2s ease-in-out;
+}
+
+.box:hover {
+    background-color: #999;
+    background-position: bottom;
+    
+}
+
+.gallery {
+    flex-basis: 50%;
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    grid-auto-rows: 110px;
+    gap: 10px;
+}
+
+/* utility class */
+
+.row-2 {
+    grid-row: span 2;
+}
+
+.col-2 {
+    grid-column: span 2;
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        gap: 20px;
+        height: 100%;
+    }
+
+    .box {
+      grid-row: span 1;  
+      grid-column: span 3;
+    }
+
+    .gallery {
+        grid-auto-rows: 200px;
+    }
+    
+}

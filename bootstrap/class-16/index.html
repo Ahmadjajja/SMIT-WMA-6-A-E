@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bootstrap</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+
+    <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+
+
+    <style>
+        .box {
+            background-color: crimson;
+
+        }
+    </style>
+
+</head>
+<body>
+    <div class="container">
+        <div class="row row-cols-3 g-4">
+            <div class="col">
+                <div class="row">
+                    <div class="col">
+                        <div class="box">box</div>
+                    </div>
+                    <div class="col">
+                        <div class="box">box</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="box">Box</div>
+            </div>
+            <div class="col">
+                <div class="box">Box</div>
+            </div>
+            <div class="col">
+                <div class="box">Box</div>
+            </div>
+            <div class="col">
+                <div class="box">Box</div>
+            </div>
+            <div class="col">
+                <div class="box">Box</div>
+            </div>
+            <div class="col">
+                <div class="box">Box</div>
+            </div>
+        </div>
+    </div>
+
+
+    <hr>
+
+
+
+    <!-- <h1>Table</h1> -->
+
+    <div class="container">
+        <table class="table table-striped table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Class</th>
+                    <th>Section</th>
+                </tr>
+            </thead>
+    
+            <tbody>
+                <tr>
+                    <th>Ali</th>
+                    <th>BS</th>
+                    <th>E</th>
+                </tr>
+    
+                <tr>
+                    <th>Ali</th>
+                    <th>BS</th>
+                    <th>E</th>
+                </tr>
+    
+                <tr>
+                    <th>Ali</th>
+                    <th>BS</th>
+                    <th>E</th>
+                </tr>
+                <tr>
+                    <th>Ali</th>
+                    <th>BS</th>
+                    <th>E</th>
+                </tr>
+                <tr>
+                    <th>Ali</th>
+                    <th>BS</th>
+                    <th>E</th>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+
+    <hr>
+
+    <!-- Forms -->
+
+    <form action="#">
+        <label for="email">Email</label>
+        <input type="email" id="email" class="form-control is-valid" placeholder="enter name"/>
+        <p class="valid-feedback">valid feedback</p>
+        <p class="invalid-feedback">invalid feedback</p>
+
+
+
+        
+        <label for="email">Email</label>
+        <div class="input-group">
+                
+            <input type="email" class="form-control">
+            <div class="input-group-text">$</div>
+            <button class="btn btn-warning">+</button>
+            <input type="email" class="form-control">
+                
+        </div>
+
+
+        <div class="form-check form-switch">
+            <input type="checkbox" class="form-check-input" checked> Male
+            
+        </div>
+
+        <div class="form-check">
+            <input type="checkbox" class="form-check-input">
+            Female            
+        </div>
+
+
+        <select class="form-select">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+        </select>
+
+        <hr>
+
+        <div class="form-floating">
+            <input type="email" class="form-control" id="text"/>
+            <label for="text">Email</label>
+        </div>
+    </form>
+
+<hr>
+
+<button class="btn btn-outline-warning">
+    button
+</button>
+
+<hr>
+
+<div class="btn-group gap-2">
+    <div class="btn btn-primary">button</div>
+    <div class="btn btn-outline-danger">button</div>
+    <div class="btn btn-success">button</div>
+    <div class="btn btn-dark">button</div>
+</div>
+
+    <div style="height: 20vh;"></div>
+
+
+
+
+
+
+
+</body>
+</html>

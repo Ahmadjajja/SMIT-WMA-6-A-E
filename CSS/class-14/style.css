@@ -1,0 +1,88 @@
+/* body {
+    background-color: crimson;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+h1 {
+    background: linear-gradient(red, green);
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-clip: text;
+    color: transparent;
+    
+}
+
+
+@media (width <= 768px){
+    body {
+        background-color: yellowgreen;
+        color: red;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 0.5rem;
+    }
+}
+
+@media (width <= 640px) {
+    body {
+        background-color: rgb(83, 108, 33);
+        color: rgb(12, 11, 11);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 1.5rem;
+    }
+}
+
+ */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins;
+}
+
+:root {
+    --primary-color: rgb(17, 17, 17);
+    --secondery-color: rgb(34, 34, 34);
+    --card-bg-color: white;
+    --body-bg-color: rgb(198, 198, 198);
+}
+
+.dark {
+    --primary-color: rgb(255, 255, 255);
+    --secondery-color: rgb(186, 185, 185);
+    --card-bg-color: rgb(28, 28, 28);
+    --body-bg-color: rgb(0, 0, 0); 
+}
+
+
+body {
+    padding: 30px;
+    background-color: var(--body-bg-color);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: var(--primary-color);
+}
+
+
+h2 {
+    color: var(--primary-color);
+}
+
+.section {
+    background-color: var(--card-bg-color);
+    padding: 20px;
+    margin: 20px 0px;
+}
+
+
+.section > p {
+    --my-var: red;
+    margin-block: 20px;
+    color: var(--secondery-color);
+}

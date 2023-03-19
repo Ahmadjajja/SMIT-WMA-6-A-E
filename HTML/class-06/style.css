@@ -1,0 +1,36 @@
+/* universal selector */
+
+/* * {
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+
+/* ID selector */
+
+/* #test{
+    color: green;
+} */
+
+/* class selector */
+
+.name{
+    color: crimson;
+    font-family: fantasy;
+}
+
+.para1{
+    background-color: crimson;
+    color: white;
+}
+
+.para2{
+    background-color: green;
+    color: lightblue;
+}
+
+.para1, #para2, p{
+    font-family: fantasy;
+}
+
+
+

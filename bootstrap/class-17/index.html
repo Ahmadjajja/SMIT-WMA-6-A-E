@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>bootstrap</title>
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
+      crossorigin="anonymous"
+    />
+
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <!-- Navbar  -->
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+      <div class="container">
+        <div class="navbar-brand">Logo</div>
+
+        <button class="navbar-toggler">
+            <div class="navbar-toggler-icon" data-bs-toggle="collapse" data-bs-target="#nav"></div>
+        </button>
+        
+        <ul class="navbar-nav collapse navbar-collapse" id="nav">
+            <li class="nav-item">
+                <a href="#" class="nav-link active">Home</a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link disabled">About</a>
+            </li>
+        </ul>
+        
+      </div>
+    </nav>
+
+    <!-- alerts -->
+    <div class="container">
+      <div class="alert alert-danger alert-dismissible fade show">
+        <h1>Alert</h1>
+        <a href="#" class="alert-link">learn more</a>
+        <button class="btn-close" data-bs-dismiss="alert"></button>
+      </div>
+    </div>
+
+    <!-- cards -->
+    <div class="container">
+      <div class="card w-25">
+        <img
+          src="https://via.placeholder.com/100"
+          alt=""
+          class="card-img-top"
+        />
+        <div class="card-body">
+          <h1 class="card-title">Title</h1>
+          <div class="card-subtitle">Sub title</div>
+          <div class="card-text">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga sequi
+            eius perspiciatis voluptate iste natus doloremque fugit consectetur
+            sit exercitationem, hic provident explicabo. Accusantium illum earum
+            sit accusamus cumque et?
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- modals -->
+
+    <div class="container">
+      <button
+        class="btn btn-primary"
+        data-bs-toggle="modal"
+        data-bs-target="#modal"
+      >
+        Open
+      </button>
+
+      <div class="modal fade" id="modal">
+        <div
+          class="modal-dialog modal-dialog-centered modal-fullscreen-sm-down"
+        >
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1>Header</h1>
+              <button class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus
+              accusamus laudantium quidem. Distinctio aliquid enim similique,
+              fuga, debitis quasi recusandae sequi expedita iure perferendis rem
+              iusto magni soluta itaque dolores!
+            </div>
+            <div class="modal-footer">
+              <button class="btn btn-danger" data-bs-dismiss="modal">
+                Close
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- collapse -->
+
+    <div class="container">
+      <button
+        class="btn btn-warning"
+        data-bs-toggle="collapse"
+        data-bs-target="#row"
+      >
+        Toggle
+      </button>
+
+      <div class="row collapse" id="row">
+        <div class="col">
+          <div
+            class="box"
+            style="background-color: crimson; height: 70px"
+          ></div>
+        </div>
+      </div>
+    </div>
+
+    <div style="height: 200px"></div>
+  </body>
+</html>

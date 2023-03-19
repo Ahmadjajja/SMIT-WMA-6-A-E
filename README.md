@@ -1,0 +1,1 @@
+# SMIT-WMA-6-A-E

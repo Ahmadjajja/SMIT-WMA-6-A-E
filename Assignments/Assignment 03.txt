@@ -1,0 +1,25 @@
+📢 Announcement 📢
+
+- Assignment: 03
+- Total Marks: 10
+- Post Date: 20/12/2022
+- Due Date: 26/12/2022
+
+Hello Students,
+
+We are excited to announce a new assignment for you to work on. You will be developing a website using the provided Figma file. We want you to create the assignment as shown in the Figma file to the best of your ability.
+
+We encourage you to put your best effort into this assignment and use the Figma file as a guide to make a visually appealing website. Remember, the more effort you put into this assignment, the more benefits you will reap in the future.
+
+So let's get started! We can't wait to see what you come up with.
+
+ Instructions to be strictly followed. 
+
+1. Zero grade for plagiarism (copy/ cheating) and late submissions.
+2. Deploy on Netlify or any other platform
+
+Figma File: https://drive.google.com/file/d/1-5LJOAVJDvyxh5X3NrdG9ek2ZFJPKhqQ/view?usp=share_link
+
+Submission Form: https://forms.gle/yDtJPqizMY17ttrV8
+
+Good Luck

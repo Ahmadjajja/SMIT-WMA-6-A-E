@@ -1,0 +1,21 @@
+📢 Announcement 📢
+
+- Assignment: 04
+- Total Marks: 10
+- Due Date: Jan, 02 2023
+
+Hello students,
+
+I hope this message finds you well. As part of our web development class, we will be working on cloning the layout of the Discord website for the next week. This will be a great opportunity for you to practice your HTML and CSS skills, as well as get a feel for how professional websites are structured.
+
+Please note that we will not be implementing any of the functionality of the Discord website. Our focus will be purely on replicating the layout and design of the site.
+
+I encourage you to take your time with this assignment and pay attention to the small details. Cloning a website is a great way to improve your skills and understanding of web development, and I look forward to seeing the results of your hard work.
+
+If you have any questions or need help with this assignment, please don't hesitate to reach out.
+
+Assignment link: https://discord.com
+Submission Form: https://forms.gle/HxCHo8vPAEcV3g5G6
+
+Best regards,
+Anas Javed

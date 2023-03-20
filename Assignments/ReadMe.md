@@ -1,0 +1,1 @@
+# All Assignments Regarding to Web and Mobile Application Development course

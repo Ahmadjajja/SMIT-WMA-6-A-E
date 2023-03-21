@@ -1,1 +1,1 @@
-# All Assignments Regarding to Web and Mobile Application Development course
+# All Assignments Regarding to WMA-Batch-06

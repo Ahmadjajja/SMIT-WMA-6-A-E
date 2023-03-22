@@ -1,0 +1,11 @@
+
+
+Paths:
+1- Competative coding
+
+	i) Data Structures and algorithms
+
+2- Development
+	i)  Web and Mobile App Development
+	ii) Data Structures and Algorithms
+		

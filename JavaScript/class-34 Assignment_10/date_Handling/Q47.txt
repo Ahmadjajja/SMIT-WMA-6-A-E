@@ -1,0 +1,8 @@
+ Write a JavaScript function to get time differences in weeks between two dates.   
+
+ 1-  start function
+ 2-  get weaks of first date
+
+ 3-  get weaks of second date
+        
+ 4-  minus greater weaks from smaller number of weaks

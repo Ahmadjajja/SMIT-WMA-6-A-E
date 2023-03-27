@@ -7,7 +7,7 @@ Web and Mobile Application Development Batch # 06 Course
 Assignment-10, Next Two Weaks
 
 Requirements: 
-
+```javascript
 Object Handling:
 
 1. Write a JavaScript program to list the properties of a JavaScript object
@@ -1006,8 +1006,9 @@ console.log(diff_years(dt1, dt2));
 
  52. Write a JavaScript function to get the month start date.   
 
- 53. Write a JavaScript function to get the month end date.   
-
+ 53. Write a JavaScript function to get the month end date.
+    
+```
  
 
 

@@ -63,11 +63,14 @@
 // arr.every 
 
 
-let arr = [1, 2,2, 3, 4];
-console.log(arr);
+// let arr = [1, 2,2, 3, 4];
+// console.log(arr);
 
-let elementExist = arr.every(element => element > 0)
-console.log(elementExist)
+// let elementExist = arr.every(element => element > 0)
+// console.log(elementExist)
+
+
+
 
 
 

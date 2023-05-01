@@ -1,4 +1,3 @@
-```
 # JavaScript Class
 
 This repository contains materials for a JavaScript class covering the following topics:
@@ -91,4 +90,4 @@ This repository contains materials for a JavaScript class covering the following
 - Syntax for working with variable-length argument lists and arrays using Rest and spread operators.
 - Syntax for importing and exporting code between files using Modules.
 
-```
+

@@ -63,6 +63,7 @@ This repository contains materials for a JavaScript class covering the following
 - How to use event listeners and handlers to respond to these events.
 
 <hr/>
+
 # Remaining Topics
 
 ## DOM Manipulation

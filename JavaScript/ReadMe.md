@@ -1,3 +1,6 @@
+Sure, here is the code for the updated `Readme.md`:
+
+```
 # JavaScript Class
 
 This repository contains materials for a JavaScript class covering the following topics:
@@ -8,8 +11,13 @@ This repository contains materials for a JavaScript class covering the following
 - [Conditional Statements](#conditional-statements)
 - [Repetition Structures](#repetition-structures)
 - [Methods](#methods)
+- [DOM Manipulation](#dom-manipulation)
+- [Asynchronous JavaScript](#asynchronous-javascript)
+- [Object-Oriented Programming](#object-oriented-programming)
+- [Error Handling and Debugging](#error-handling-and-debugging)
+- [ES6](#es6)
 
-# JavaScript Basics
+## JavaScript Basics
 
 - `console.log()`: How to log something to the console.
 - Data types: Numbers, strings, booleans, null, undefined, and symbols.
@@ -53,7 +61,34 @@ This repository contains materials for a JavaScript class covering the following
 - Higher-order functions
 
 ## Events
+
 - How to handle events such as clicks, key presses, and form submissions
 - How to use event listeners and handlers to respond to these events.
 
-     
+<hr/>
+# Remaining Topics
+
+## DOM Manipulation
+
+- How to select and manipulate elements on a web page using the Document Object Model (DOM)
+- How to add, remove, and modify HTML elements and CSS styles using JavaScript
+- How to handle user interactions such as clicks and mouseovers
+
+## Asynchronous JavaScript
+
+- How to work with asynchronous operations in JavaScript such as fetching data from a server or handling user input
+- How to use callbacks, promises, and async/await syntax to handle asynchronous code
+- How to use fetch() to make HTTP requests and handle responses
+
+## Error Handling and Debugging
+- How to handle errors and exceptions in JavaScript code using try/catch blocks
+- How to use debugging tools such as console.log(), breakpoints, and the debugger statement to debug JavaScript code
+
+## ES6
+- Block-scoped variables that replace the old var keyword with let and const.
+- Shorter syntax for writing functions using Arrow functions.
+- Improved syntax for creating strings with variables and expressions using Template literals.
+- Syntax for extracting values from objects and arrays using Destructuring.
+- Setting default values for function parameters using Default parameters.
+- Syntax for working with variable-length argument lists and arrays using Rest and spread operators.
+- Syntax for importing and exporting code between files using Modules.

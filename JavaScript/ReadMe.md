@@ -1,5 +1,3 @@
-Sure, here is the code for the updated `Readme.md`:
-
 ```
 # JavaScript Class
 
@@ -92,3 +90,5 @@ This repository contains materials for a JavaScript class covering the following
 - Setting default values for function parameters using Default parameters.
 - Syntax for working with variable-length argument lists and arrays using Rest and spread operators.
 - Syntax for importing and exporting code between files using Modules.
+
+```

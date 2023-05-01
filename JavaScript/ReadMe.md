@@ -43,4 +43,17 @@ This repository contains materials for a JavaScript class covering the following
 - Date: How to use the Date object to work with dates and times.
 - Math: How to use the Math object to perform mathematical operations.
 
+## Functions
+
+- How to define and call functions
+- Function parameters and arguments
+- Return values
+- Function expressions
+- Arrow functions
+- Higher-order functions
+
+## Events
+- How to handle events such as clicks, key presses, and form submissions
+- How to use event listeners and handlers to respond to these events.
+
      

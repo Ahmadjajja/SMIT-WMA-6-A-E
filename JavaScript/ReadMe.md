@@ -66,6 +66,11 @@ This repository contains materials for a JavaScript class covering the following
 
 # Remaining Topics
 
+## Object-Oriented Programming
+- How to use classes and objects to organize code and data in JavaScript
+- How to define and use constructors, methods, and properties in JavaScript classes
+- How to implement inheritance in JavaScript using classes.
+
 ## DOM Manipulation
 
 - How to select and manipulate elements on a web page using the Document Object Model (DOM)
@@ -90,5 +95,6 @@ This repository contains materials for a JavaScript class covering the following
 - Setting default values for function parameters using Default parameters.
 - Syntax for working with variable-length argument lists and arrays using Rest and spread operators.
 - Syntax for importing and exporting code between files using Modules.
+- Concept of local storage
 
 

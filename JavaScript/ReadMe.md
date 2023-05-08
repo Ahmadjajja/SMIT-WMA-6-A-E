@@ -62,14 +62,15 @@ This repository contains materials for a JavaScript class covering the following
 - How to handle events such as clicks, key presses, and form submissions
 - How to use event listeners and handlers to respond to these events.
 
-<hr/>
-
-# Remaining Topics
 
 ## Object-Oriented Programming
 - How to use classes and objects to organize code and data in JavaScript
 - How to define and use constructors, methods, and properties in JavaScript classes
 - How to implement inheritance in JavaScript using classes.
+
+<hr/>
+
+# Remaining Topics
 
 ## DOM Manipulation
 

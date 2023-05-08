@@ -20,7 +20,7 @@
 
 Classes contains two things:
     1) Properties
-    2) Methods
+    2) Methods 
 
 3) Properties or Data members:-
     Properties are just normal variable, but object oriented programming we called these

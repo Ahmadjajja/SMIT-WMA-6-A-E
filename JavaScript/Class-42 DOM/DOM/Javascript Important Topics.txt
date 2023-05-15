@@ -1,0 +1,2 @@
+• JavaScript advanced concepts like Event Loop, Classes, Inheritance, Prototyping, Closures, Module
+Pattern, Hoisting, Currying, EcmaScript (ES), Generator Functions, and Asynchronous JS.

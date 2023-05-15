@@ -14,3 +14,9 @@ headings[1].style.padding = "4px 10px";
 // Will discuss types of error in programming after pray
 
 
+
+
+
+// 1- How we can access HTML elements using DOM in javascript?
+
+

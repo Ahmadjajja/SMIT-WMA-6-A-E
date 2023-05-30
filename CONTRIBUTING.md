@@ -2,56 +2,63 @@
 
 ## Steps to add yourself to the contributers list.
 
-1) You will first need git which you can download from [here](https://git-scm.com/downloads).
+1. You will first need git which you can download from [here](https://git-scm.com/downloads).
 
-2) Now head [here](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) and click on the `fork` button.
+2. Now head [here](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) and click on the `fork` button.
 
-3) On the next page you will see a `create fork` button, press it.
+3. On the next page you will see a `create fork` button, press it.
 
-4) You will land on your forked repo page, here you will see a `<> Code` button marked in green, click on it and copy the url.
+4. You will land on your forked repo page, here you will see a `<> Code` button marked in green, click on it and copy the url.
 
-5) Open your terminal and type ```javascript git clone URL(That you copied) ``` and press enter.
+5. Open your terminal and type `git clone URL(That you copied)` and press enter.
 
-6) Change to the repository directory on your computer (if you are not already there):
+6. <pre style="white-space: pre;">
+   Change to the repository directory on your computer (if you are not already there):
+   
+        ```
+        cd SMIT-WMA-6-A-E
+        ```
+   
+   </pre>
 
-```
-cd SMIT-WMA-6-A-E
-```
+7. <pre style="white-space: pre;">
+   
+   Now create a branch using the `git switch` command:
 
-7) Now create a branch using the `git switch` command:
+        ```
+        git switch -c your-new-branch-name
+        ```
 
-```
-git switch -c your-new-branch-name
-```
+        For example:
 
-For example:
+        ```
+        git switch -c add-alonzo-church
+        ```
 
-```
-git switch -c add-alonzo-church
-```
+   </pre>
 
-8) Now you are in `current repo's new created branch` and edit the `README.md` file using any text editor, VScode for example.
+8. Now you are in `current repo's new created branch` and edit the `README.md` file using any text editor, VScode for example.
 
-9) Below is a code snippet for reference as to what has to ADDED in the file. Inside the `<b> </b>` tag you have to put your name, in the `<href >` tag, you have to place your github profile URL. And lastly you have to place your github profile photo url inside the `src` tag.
+9. Below is a code snippet for reference as to what has to ADDED in the file. Inside the `<b> </b>` tag you have to put your name, in the `<href >` tag, you have to place your github profile URL. And lastly you have to place your github profile photo url inside the `src` tag.
 
-    ```
-    <td align="center">
-        <a href="https://github.com/Ahmadjajja">
-            <img src="https://avatars.githubusercontent.com/u/86593662?v=4" width="100px;" alt="Ahmad Jajja"/>
-            <br />
-            <sub><b>Ahmad Jajja</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Ahmadjajja">
-            <img src="https://avatars.githubusercontent.com/u/86593662?v=4" width="100px;" alt="Ahmad Jajja"/>
-            <br />
-            <sub><b>Ahmad Jajja</b></sub>
-        </a>
-    </td>
-    ```
+   ```
+   <td align="center">
+       <a href="https://github.com/Ahmadjajja">
+           <img src="https://avatars.githubusercontent.com/u/86593662?v=4" width="100px;" alt="Ahmad Jajja"/>
+           <br />
+           <sub><b>Ahmad Jajja</b></sub>
+       </a>
+   </td>
+   <td align="center">
+       <a href="https://github.com/Ahmadjajja">
+           <img src="https://avatars.githubusercontent.com/u/86593662?v=4" width="100px;" alt="Ahmad Jajja"/>
+           <br />
+           <sub><b>Ahmad Jajja</b></sub>
+       </a>
+   </td>
+   ```
 
-10) Now commit those changes using the `git commit` command:
+10. Now commit those changes using the `git commit` command:
 
 ```
 git commit -m "Add your-name to Contributors list"
@@ -59,7 +66,7 @@ git commit -m "Add your-name to Contributors list"
 
 replacing `your-name` with your name.
 
-11) Push your changes using the command `git push`:
+11. Push your changes using the command `git push`:
 
 ```
 git push -u origin your-branch-name
@@ -85,9 +92,6 @@ Congrats! You just completed the standard _fork -> clone -> edit -> pull request
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
-
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
-
-
 
 Lastly, GitHub/Git are vital in open-source contributions, to learn more about them check this blog [here](https://dragon2002.hashnode.dev/git-and-github-must-know-guide#heading-setting-up-github).

@@ -48,6 +48,7 @@ var newTxt = document.createTextNode("Hello New one!");
 
 newParagraph.appendChild(newTxt); 
 
+
 newParagraph.setAttribute("class", "regular");
 newParagraph.style.color = "red"
 moreParagraphs.appendChild(newParagraph);

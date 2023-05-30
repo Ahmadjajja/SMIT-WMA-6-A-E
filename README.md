@@ -2,7 +2,7 @@
  ![Alt Text](https://res.cloudinary.com/jajja-group-of-company/image/upload/v1681415968/fnucgzuzmcgiisevqvlb.jpg) .<br />
 This repository has been created to provide you with practical examples of the concepts covered in each class. Our goal is to help you better understand the theoretical concepts by providing you with real-world scenarios and code samples.
 
-# Students & Contributors
+<!-- # Students & Contributors
 <table>
     <tbody>
         <tr>
@@ -57,7 +57,7 @@ This repository has been created to provide you with practical examples of the c
             </td>
         </tr> 
 </tbody>
-<table>
+<table> -->
 
 
 ## Why Use This Repository?

@@ -12,29 +12,21 @@
 
 5. Open your terminal and type `git clone URL(That you copied)` and press enter.
 
-6. <pre style="white-space: pre;">
-   Change to the repository directory on your computer (if you are not already there):
-   
-        ```
+6. Change to the repository directory on your computer (if you are not already there):
+    <pre style="white-space: pre;">
+    
         cd SMIT-WMA-6-A-E
-        ```
-   
+
    </pre>
 
-7. <pre style="white-space: pre;">
+7. Now create a branch using the `git switch` command:
+    <pre style="white-space: pre;">
    
-   Now create a branch using the `git switch` command:
-
-        ```
-        git switch -c your-new-branch-name
-        ```
-
-        For example:
-
-        ```
-        git switch -c add-alonzo-church
-        ```
-
+       git switch -c your-new-branch-name
+   
+       For example:
+   
+       git switch -c add-alonzo-church
    </pre>
 
 8. Now you are in `current repo's new created branch` and edit the `README.md` file using any text editor, VScode for example.

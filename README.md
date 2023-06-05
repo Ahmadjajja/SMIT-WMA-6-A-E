@@ -29,6 +29,13 @@ This repository has been created to provide you with practical examples of the c
                     <sub><b>Muhammad Hamza</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/sheikh-huzaifa">
+                    <img src="https://avatars.githubusercontent.com/u/123205960?v=4" width="100px;" alt="Huzaifa Hameed"/>
+                    <br />
+                    <sub><b>Huzaifa Hameed</b></sub>
+                </a> 
+            </td>
         </tr> 
 </tbody>
 <table>

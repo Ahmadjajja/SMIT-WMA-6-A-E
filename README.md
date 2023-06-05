@@ -36,8 +36,6 @@ This repository has been created to provide you with practical examples of the c
                     <sub><b>Huzaifa Hameed</b></sub>
                 </a> 
             </td>
-        </tr> 
-        <tr>
             <td align="center">
                 <a href="https://github.com/MunirRajpoot">
                     <img src="https://avatars.githubusercontent.com/u/113513828?v=4" width="100px;" alt="Munir Rajpoot"/>

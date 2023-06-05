@@ -30,10 +30,6 @@ This repository has been created to provide you with practical examples of the c
                 </a> 
             </td>
         </tr> 
-</tbody>
-<table>
-<table>
-    <tbody>
         <tr>
             <td align="center">
                 <a href="https://github.com/MunirRajpoot">

@@ -18,62 +18,20 @@ This repository has been created to provide you with practical examples of the c
 <table>
 
 
-<!-- # Students & Contributors
+# Students & Contributors
 <table>
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+                <a href="https://github.com/MuhammadHamza47">
+                    <img src="https://avatars.githubusercontent.com/u/125242529?v=4" width="100px;" alt="Muhammad Hamza"/>
                     <br />
-                    <sub><b>Ali Solanki</b></sub>
+                    <sub><b>Muhammad Hamza</b></sub>
                 </a> 
-            </td>
-            <td align="center">
-                <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
-                    <br />
-                    <sub><b>Harsh Pandey</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/druvkotwani">
-                    <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
-                    <br />
-                    <sub><b>Dhruv Kotwani</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://www.vivekthakur.dev/">
-                    <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
-                    <br />
-                    <sub><b>Vivek Thakur</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Preetiraj3697">
-                    <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;" alt="Preeti Raj"/>
-                    <br />
-                    <sub><b>Preeti Raj</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Kandi-Venkatesh99">
-                    <img src="https://avatars.githubusercontent.com/u/63512343?s=400&u=c8cf2e6ce84a81836b5a4503af7cc9a854373b41&v=4" width="100px;" alt="Venkatesh k"/>
-                    <br />
-                    <sub><b>Venkatesh k</b></sub>
-                </a>
-            </td>
-           <td align="center">
-                <a href="https://github.com/sahil-ansari01">
-                    <img src="https://avatars.githubusercontent.com/u/108484457?v=4" width="100px;" alt="Sahil Ansari"/>
-                    <br />
-                    <sub><b>Sahil Ansari</b></sub>
-                </a>
             </td>
         </tr> 
 </tbody>
-<table> -->
+<table>
 
 
 ## Why Use This Repository?

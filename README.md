@@ -43,6 +43,13 @@ This repository has been created to provide you with practical examples of the c
                     <sub><b>Munir Rajpoot</b></sub>
                 </a> 
             </td>
+           <td align="center">
+                <a href="https://github.com/ShkHaseeb66">
+                    <img src="https://avatars.githubusercontent.com/u/119443688?v=4" width="100px;" alt="Sheikh Haseeb"/>
+                    <br />
+                    <sub><b>Sheikh Haseeb</b></sub>
+                </a> 
+            </td>
         </tr> 
 </tbody>
 <table>

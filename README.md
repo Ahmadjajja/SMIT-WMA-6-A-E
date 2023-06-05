@@ -36,6 +36,13 @@ This repository has been created to provide you with practical examples of the c
                     <sub><b>Huzaifa Hameed</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/Mashoodgondal">
+                    <img src="https://avatars.githubusercontent.com/u/124273207?v=4" width="100px;" alt="Mashood Ali"/>
+                    <br />
+                    <sub><b>Mahood Ali</b></sub>
+                </a> 
+            </td>
         </tr> 
 </tbody>
 <table>

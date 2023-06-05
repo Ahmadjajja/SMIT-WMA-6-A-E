@@ -36,6 +36,13 @@ This repository has been created to provide you with practical examples of the c
                     <sub><b>Huzaifa Hameed</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/Hassamaziz">
+                    <img src="https://avatars.githubusercontent.com/u/118983911?v=4" width="100px;" alt="Hassam Aziz"/>
+                    <br />
+                    <sub><b>Hassam Aziz</b></sub>
+                </a> 
+            </td>
         </tr> 
 </tbody>
 <table>

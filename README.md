@@ -30,6 +30,13 @@ This repository has been created to provide you with practical examples of the c
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/SHERAZSHAHZAD/">
+                    <img src="https://avatars.githubusercontent.com/u/119057763?v=4" width="100px;" alt="Sheraz shahzad"/>
+                    <br />
+                    <sub><b>Sheraz Shahzad</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/sheikh-huzaifa">
                     <img src="https://avatars.githubusercontent.com/u/123205960?v=4" width="100px;" alt="Huzaifa Hameed"/>
                     <br />

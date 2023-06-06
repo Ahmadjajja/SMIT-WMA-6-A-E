@@ -33,6 +33,19 @@ This repository has been created to provide you with practical examples of the c
 </tbody>
 <table>
 
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/Waqar-ul-hasan">
+                    <img src="https://avatars.githubusercontent.com/u/122824180?s=400&u=449483a1df9cd03638ff09ed9300d609dcaae681&v=4" width="100px;" alt="Muhammad Haris"/>
+                    <br />
+                    <sub><b>Muhammad Haris</b></sub>
+                </a> 
+            </td>
+        </tr> 
+</tbody>
+<table>
 
 ## Why Use This Repository?
 Our repository is designed to help you take your development skills to the next level. The code samples contained within cover a wide range of topics, from basic programming concepts to advanced web development techniques. By studying these samples, you'll be able to apply the knowledge you've gained in class to practical situations, and build a strong foundation of development skills.

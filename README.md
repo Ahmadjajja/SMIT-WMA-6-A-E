@@ -30,6 +30,13 @@ This repository has been created to provide you with practical examples of the c
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/SHERAZSHAHZAD/">
+                    <img src="https://avatars.githubusercontent.com/u/119057763?v=4" width="100px;" alt="Sheraz shahzad"/>
+                    <br />
+                    <sub><b>Sheraz Shahzad</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/sheikh-huzaifa">
                     <img src="https://avatars.githubusercontent.com/u/123205960?v=4" width="100px;" alt="Huzaifa Hameed"/>
                     <br />
@@ -41,6 +48,41 @@ This repository has been created to provide you with practical examples of the c
                     <img src="https://avatars.githubusercontent.com/u/123858146?v=4" width="100px;" alt="Muhammad Qasim"/>
                     <br />
                     <sub><b>Muhammad Qasim</b></sub>
+                 </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/MunirRajpoot">
+                    <img src="https://avatars.githubusercontent.com/u/113513828?v=4" width="100px;" alt="Munir Rajpoot"/>
+                    <br />
+                    <sub><b>Munir Rajpoot</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/Hassamaziz">
+                    <img src="https://avatars.githubusercontent.com/u/118983911?v=4" width="100px;" alt="Hassam Aziz"/>
+                    <br />
+                    <sub><b>Hassam Aziz</b></sub>
+                </a> 
+            </td>
+           <td align="center">
+                <a href="https://github.com/ShkHaseeb66">
+                    <img src="https://avatars.githubusercontent.com/u/119443688?v=4" width="100px;" alt="Sheikh Haseeb"/>
+                    <br />
+                    <sub><b>Sheikh Haseeb</b></sub>
+                 </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/Mr-ASbaloch">
+                    <img src="https://avatars.githubusercontent.com/u/123968297?v=4" width="100px;" alt="Abdul saeed"/>
+                    <br />
+                    <sub><b>Abdul Saeed</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/Hamid-Mughal">
+                    <img src="https://avatars.githubusercontent.com/u/123930024?v=4" width="100px;" alt="Hamid Raza"/>
+                    <br />
+                    <sub><b>Hamid Raza</b></sub>
                 </a> 
             </td>
         </tr> 

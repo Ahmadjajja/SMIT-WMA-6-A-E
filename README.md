@@ -96,9 +96,9 @@ This repository has been created to provide you with practical examples of the c
             </td>
              <td align="center">
                 <a href="https://github.com/Abdulrehman272">
-                    <img src="https://avatars.githubusercontent.com/u/129932437?v=4" width="100px;" alt="Hamid Raza"/>
+                    <img src="https://avatars.githubusercontent.com/u/129932437?v=4" width="100px;" alt="Abdul Rehman"/>
                     <br />
-                    <sub><b>Hamid Raza</b></sub>
+                    <sub><b>Abdul Rehman</b></sub>
                 </a> 
             </td>
         </tr> 

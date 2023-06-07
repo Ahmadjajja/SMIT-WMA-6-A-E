@@ -156,7 +156,7 @@ This repository has been created to provide you with practical examples of the c
             </td>
             <td align="center">
                 <a href="https://github.com/Hamad-Khalil/SMIT-WMA-6-A-E.git">
-                    <img src="https://github.com/Hamad-Khalil/SMIT-WMA-6-A-E.git" width="100px;" alt="Hamad Khalil"/>
+                    <img src="https://avatars.githubusercontent.com/u/123974803?v=4" width="100px;" alt="Hamad Khalil"/>
                     <br />
                     <sub><b>Hamad Khalil</b></sub>
                 </a> 

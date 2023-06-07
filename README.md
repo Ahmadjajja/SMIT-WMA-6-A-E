@@ -73,8 +73,6 @@ This repository has been created to provide you with practical examples of the c
                     <sub><b>Hassam Aziz</b></sub>
                 </a> 
             </td>
-        </tr>
-        <tr>
            <td align="center">
                 <a href="https://github.com/ShkHaseeb66">
                     <img src="https://avatars.githubusercontent.com/u/119443688?v=4" width="100px;" alt="Sheikh Haseeb"/>
@@ -82,6 +80,8 @@ This repository has been created to provide you with practical examples of the c
                     <sub><b>Sheikh Haseeb</b></sub>
                  </a> 
             </td>
+        </tr>
+        <tr>
             <td align="center">
                 <a href="https://github.com/Mr-ASbaloch">
                     <img src="https://avatars.githubusercontent.com/u/123968297?v=4" width="100px;" alt="Abdul saeed"/>
@@ -124,8 +124,6 @@ This repository has been created to provide you with practical examples of the c
                     <sub><b>Mirza Saim</b></sub>
                 </a> 
             </td>
-        </tr>
-        <tr>
              <td align="center">
                 <a href="https://github.com/Abdulrehman272">
                     <img src="https://avatars.githubusercontent.com/u/129932437?v=4" width="100px;" alt="Abdul Rehman"/>
@@ -140,6 +138,8 @@ This repository has been created to provide you with practical examples of the c
                     <sub><b>SAMMI HAIDER</b></sub>
                 </a> 
             </td>
+        </tr>
+        <tr>
             <td align="center">
                 <a href="https://github.com/JadoGarBhai">
                     <img src="https://avatars.githubusercontent.com/u/121254651?v=4" width="100px;" alt="Sikander Nawaz"/>

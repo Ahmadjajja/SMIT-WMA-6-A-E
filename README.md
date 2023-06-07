@@ -92,6 +92,13 @@ This repository has been created to provide you with practical examples of the c
                     <sub><b>Hamid Raza</b></sub>
                 </a> 
             </td>
+              <td align="center">
+                <a href="https://github.com/awais-rafiq">
+                    <img src="https://avatars.githubusercontent.com/u/124677568?v=4" width="100px;" alt="Awais Rafiq"/>
+                    <br />
+                    <sub><b>Awais Rafiq</b></sub>
+                 </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/MirzaMuhammadSaim">
                     <img src="https://avatars.githubusercontent.com/u/123978075?v=4" width="100px;" alt="Hamid Raza"/>

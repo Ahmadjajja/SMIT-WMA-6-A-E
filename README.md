@@ -136,6 +136,13 @@ This repository has been created to provide you with practical examples of the c
                     <sub><b>SAMMI HAIDER</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/JadoGarBhai">
+                    <img src="https://avatars.githubusercontent.com/u/121254651?v=4" width="100px;" alt="Sikander Nawaz"/>
+                    <br />
+                    <sub><b>Sikander Nawaz</b></sub>
+                </a> 
+            </td>
         </tr> 
 
 </tbody>

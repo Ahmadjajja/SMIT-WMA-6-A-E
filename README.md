@@ -129,6 +129,13 @@ This repository has been created to provide you with practical examples of the c
                     <sub><b>Abdul Rehman</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/SAMMIHAIDER">
+                    <img src="https://avatars.githubusercontent.com/u/123710249?v=4" width="100px;" alt="SAMI HAIDER"/>
+                    <br />
+                    <sub><b>SAMMI HAIDER</b></sub>
+                </a> 
+            </td>
         </tr> 
 
 </tbody>

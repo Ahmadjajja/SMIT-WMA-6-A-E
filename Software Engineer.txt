@@ -7,5 +7,5 @@ Paths:
 
 2- Development
 	i)  Web and Mobile App Development
-	ii) Data Structures and Algorithms
+	ii) Data Structures and Algorithms 
 		

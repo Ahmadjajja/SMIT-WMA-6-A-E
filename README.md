@@ -143,6 +143,13 @@ This repository has been created to provide you with practical examples of the c
                     <sub><b>Sikander Nawaz</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/Waqar-ul-hasan">
+                    <img src="https://avatars.githubusercontent.com/u/122824180?s=400&u=449483a1df9cd03638ff09ed9300d609dcaae681&v=4" width="100px;" alt="Muhammad Haris"/>
+                    <br />
+                    <sub><b>Muhammad Haris</b></sub>
+                </a> 
+            </td>
         </tr> 
 
 </tbody>

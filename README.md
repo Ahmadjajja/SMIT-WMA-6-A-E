@@ -91,11 +91,35 @@ This repository has been created to provide you with practical examples of the c
                     <br />
                     <sub><b>Muhammad waleed</b></sub>   
                 </a> 
-           
-           
-           
-           
-        
+            </td>
+             <td align="center">
+                <a href="https://github.com/MOHSIN-AB">
+                    <img src="https://avatars.githubusercontent.com/u/125199140?v=4" width="100px;" alt="mohsin raza"/>
+                    <br />
+                    <sub><b>Mohsin Raza</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/UsamaZahid8080">
+                    <img src="https://avatars.githubusercontent.com/u/123262999?v=4" width="100px;" alt="Usama Zahid"/>
+                    <br />
+                    <sub><b>Usama Zahid</b></sub>
+                </a> 
+            </td>
+              <td align="center">
+                <a href="https://github.com/awais-rafiq">
+                    <img src="https://avatars.githubusercontent.com/u/124677568?v=4" width="100px;" alt="Awais Rafiq"/>
+                    <br />
+                    <sub><b>Awais Rafiq</b></sub>
+                 </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/MirzaMuhammadSaim">
+                    <img src="https://avatars.githubusercontent.com/u/123978075?v=4" width="100px;" alt="Hamid Raza"/>
+                    <br />
+                    <sub><b>Mirza Saim</b></sub>
+                </a> 
+            </td>
         </tr> 
 
 </tbody>

@@ -84,12 +84,12 @@ This repository has been created to provide you with practical examples of the c
                     <br />
                     <sub><b>Abdul Saeed</b></sub>
                 </a> 
-            </td>
+            </td> 
             <td align="center">
-                <a href="https://github.com/Hamid-Mughal">
-                    <img src="https://avatars.githubusercontent.com/u/123930024?v=4" width="100px;" alt="Hamid Raza"/>
+                <a href="https://github.com/Muhammad-Waled">
+                    <img src="https://avatars.githubusercontent.com/u/121124132?v=4" width="100px;" alt="Muhammad waleed"/>
                     <br />
-                    <sub><b>Hamid Raza</b></sub>
+                    <sub><b>Muhammad waleed</b></sub>   
                 </a> 
             </td>
              <td align="center">
@@ -121,6 +121,7 @@ This repository has been created to provide you with practical examples of the c
                 </a> 
             </td>
         </tr> 
+
 </tbody>
 <table>
 

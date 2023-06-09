@@ -161,6 +161,15 @@ This repository has been created to provide you with practical examples of the c
                     <sub><b>Hamad Khalil</b></sub>
                 </a> 
             </td>
+
+            <td align="center">
+                <a href="https://github.com/IrfanChatha">
+                    <img src="https://avatars.githubusercontent.com/u/118846772?v=4" width="100px;" alt="Irfan Chatha"/>
+                    <br />
+                    <sub><b>Irfan Chatha</b></sub>
+                </a> 
+            </td>
+
         </tr> 
 
 </tbody>

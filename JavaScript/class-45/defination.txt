@@ -1,0 +1,4 @@
+Asynchronous JavaScript is a programming paradigm that allows JavaScript code to execute non-blocking operations. 
+In traditional synchronous programming, each line of code is executed one after another, and the program waits for 
+each operation to complete before moving on to the next one. Asynchronous programming, on the other hand, enables 
+JavaScript to perform tasks in the background while other operations are being executed, without blocking the execution flow.

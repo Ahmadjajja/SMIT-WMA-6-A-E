@@ -1,6 +1,10 @@
 ﻿# Welcome to the Web and Mobile Application Development class repository!
 
-![Alt Text](https://res.cloudinary.com/jajja-group-of-company/image/upload/v1681415968/fnucgzuzmcgiisevqvlb.jpg) .<br />
+<div align="center">
+    <img src="https://res.cloudinary.com/jajja-group-of-company/image/upload/v1681415968/fnucgzuzmcgiisevqvlb.jpg" width="500px;" alt="Students"/>
+</div>
+<br />
+
 This repository has been created to provide you with practical examples of the concepts covered in each class. Our goal is to help you better understand the theoretical concepts by providing you with real-world scenarios and code samples.
 
 # Instructor

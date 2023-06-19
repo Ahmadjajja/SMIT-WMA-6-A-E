@@ -68,15 +68,15 @@ This repository contains materials for a JavaScript class covering the following
 - How to define and use constructors, methods, and properties in JavaScript classes
 - How to implement inheritance in JavaScript using classes.
 
-<hr/>
-
-# Remaining Topics
-
 ## DOM Manipulation
 
 - How to select and manipulate elements on a web page using the Document Object Model (DOM)
 - How to add, remove, and modify HTML elements and CSS styles using JavaScript
 - How to handle user interactions such as clicks and mouseovers
+
+<hr/>
+
+# Remaining Topics
 
 ## Asynchronous JavaScript
 

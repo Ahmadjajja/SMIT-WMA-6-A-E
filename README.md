@@ -169,6 +169,13 @@ This repository has been created to provide you with practical examples of the c
                     <sub><b>Irfan Chatha</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/Ali-Raza-jutt">
+                    <img src="https://avatars.githubusercontent.com/u/94671666?v=4" width="100px;" alt="Ali Raza"/>
+                    <br />
+                    <sub><b>Ali Raza</b></sub>
+                </a> 
+            </td>
         </tr> 
 
 </tbody>

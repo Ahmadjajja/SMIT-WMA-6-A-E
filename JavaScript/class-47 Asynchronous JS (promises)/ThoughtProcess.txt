@@ -1,0 +1,13 @@
+                    promise (We will complete the course)
+                    ____                            _____
+                    __                                ___
+                    _                                  __
+                    resolved(Course completed)          rejected(Course not completed)
+                    __                     ___          __                         ___
+                    -                        _          -                            _
+                    -                        - resolved(Do course again)    reject (Change the career)
+                    -                        -
+                    -                        -
+                    -                        -
+                    -                        -
+resolved(pursue coding as career)     Reject(Not Pursue coding career)

@@ -1,0 +1,18 @@
+        Call Stack                                  Callback Queue                     Outsource
+==============================             ===============================    ===========================
+  console.log("Hi there");                                                  setTimeout(() =>console.log("Sorry I'm late"), 1000);
+  console.log(add(4, 5));
+  function add(x, y) {
+   return x + y;
+  }
+
+
+
+  FLow of event loop
+  1- Firstly, All asynchronous JS Code gonna Outsource
+  2- Then, Remaining synchronous code in Call Stack executed
+  3- After expiration time of asynchronous JS, code will come to the callback Queue
+  4- After executing all synchronous code in CallStack,flow will look into Callback Queue to execute asynchronous code
+  5- In this way, javascript works under the hood.
+
+

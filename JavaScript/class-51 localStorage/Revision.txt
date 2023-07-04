@@ -1,0 +1,27 @@
+1- JSON (Javascript Object Notation)
+    This is just a format of data.
+    This is langauage independent 
+
+    Two method regarding JSON in Javascript are as follows:
+
+    1- JSON.parse()         
+        Actually, this is used for making data accessible in javascript
+
+    2- JSON.strigify()
+        This is used for making data back from origional form to JSON form in Javascript
+
+2- Local Storage
+    Local Storage is storage of your browser, So data stored in local storage can be just 
+    accessible in your system. 
+
+    Three methods regarding Local Storage are as follows:
+
+    1- localStorage.getItem("item")
+        used for accessing data from local storage
+
+    2- localStorage.setItem("item", JSON.stringfy(data))
+        used for storing data in local storage
+
+    3- localStorage.removeItem("item")
+        used for removing data from local storage
+    

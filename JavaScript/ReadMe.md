@@ -74,10 +74,6 @@ This repository contains materials for a JavaScript class covering the following
 - How to add, remove, and modify HTML elements and CSS styles using JavaScript
 - How to handle user interactions such as clicks and mouseovers
 
-<hr/>
-
-# Remaining Topics
-
 ## Asynchronous JavaScript
 
 - How to work with asynchronous operations in JavaScript such as fetching data from a server or handling user input
@@ -98,4 +94,11 @@ This repository contains materials for a JavaScript class covering the following
 - Syntax for importing and exporting code between files using Modules.
 - Concept of local storage
 
-
+# Remaining Topics
+- Curying
+- Generator function
+- Hoisting
+- Closures
+- Prototyping
+  
+<hr/>

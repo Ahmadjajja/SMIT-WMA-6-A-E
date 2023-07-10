@@ -1,0 +1,5 @@
+1- Hoisting
+2- Generator function
+3- Curying
+4- Closures
+5- Prototyping

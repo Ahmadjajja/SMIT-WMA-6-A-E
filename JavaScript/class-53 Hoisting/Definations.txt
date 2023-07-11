@@ -1,0 +1,28 @@
+Hoisting
+    This is default behavior of javascript that's why we have to understand this.
+    This takes all variable declarations & functions definations to the top of the scope, not initialization
+    
+example:
+// let suppose javascript file controls begin here
+
+console.log(greet); //  error
+
+function greetSomething(message){
+    console.log(greet); //  undefined
+    var greet = message;
+    console.log(greet); // Hello, you are doing good.
+    return greet;
+}
+
+greetSomething("Hello, you are doing good.")
+
+// Note:
+    arrow functions and anonymous functions can't be hoisted
+    const sum = (num1, num2) => return num1 + num2
+    const sum2 = function(num1, num2) {
+        return num1 + num2;
+    }
+
+The hoisting behavior of let and const is called the "temporal dead zone."
+
+

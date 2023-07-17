@@ -95,10 +95,10 @@ This repository contains materials for a JavaScript class covering the following
 - Concept of local storage
 
 # Remaining Topics
-- Curying
 - Generator function
-- Hoisting
+- Hoisting <hr/>
+- Curying
 - Closures
 - Prototyping
   
-<hr/>
+

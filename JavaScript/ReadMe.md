@@ -94,9 +94,10 @@ This repository contains materials for a JavaScript class covering the following
 - Syntax for importing and exporting code between files using Modules.
 - Concept of local storage
 
-# Remaining Topics
+## Advanced Concepts
 - Generator function
 - Hoisting <hr/>
+# Remaining Topics
 - Curying
 - Closures
 - Prototyping

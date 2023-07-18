@@ -1,0 +1,9 @@
+
+// In JavaScript, a generator function is a special type of function that can be paused and resumed
+// during its execution. It allows you to control the flow of execution manually and generate a sequence
+// of values over time.
+
+// Generator functions are particularly useful when you need to generate a large sequence of values lazily
+//  or when dealing with asynchronous code. They provide an elegant way to control and manage the flow of
+//  asynchronous operations.
+

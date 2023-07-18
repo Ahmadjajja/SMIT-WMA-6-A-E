@@ -1,0 +1,28 @@
+function* sequenceGenerator(nums){
+    statements
+    .
+    .
+    .
+    .
+
+    yield 1;
+    statements for second yield
+    .
+    .
+    .
+    .
+    yield 2;
+    statements for third yield
+    .
+    .
+    .
+    .
+    yield 3;
+}
+
+let arr = [1, 2, 3]
+const iterator = sequenceGenerator(arr);
+iterator.next()
+iterator.next()
+iterator.next()
+iterator.next()

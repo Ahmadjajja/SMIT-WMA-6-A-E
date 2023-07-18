@@ -1,0 +1,54 @@
+Currying
+    - Special technique in functional programming in which origional function is 
+    transformed into another form. Where sequence of nested functions holds.
+    - Total number of functions in curying concept = number of arguments 
+Types of curying
+    There may be multiple types but we discussed here only three:
+    1- Manual curying
+    2- Arrow function curying
+    3- bind
+Why use 
+    Let suppose we don't have enough argument to pass in function, so we use curying concept
+    so that we can use remaining argument when they are available in future
+1- Manual curying
+    simple function form:
+        function sum(num1, num2, num3){
+            return num1 + num2 + num3;
+        }
+        console.log(sum(3, 4, 5))   // output
+    curying form
+        function sum(num1){
+            return function (num2){
+                return function(num3){
+                    return num1 + num2 + num3;
+                }
+            }
+        }
+        let nestedFunc1 = sum(3);
+        let nestedFunc2 = nestedFunc1(4);
+        let nestedFunc3 = nestedFunc2(5);
+        console.log(nestedFunc3)    // output : 12
+
+2- Arrow function curying
+    simple function form:
+        function sum(num1, num2, num3){
+            return num1 + num2 + num3;
+        }
+        console.log(sum(3, 4, 5))   // output
+    curying form
+        let sum = (num1) => (num2) => (num3) => num1 + num2 + num3
+        let nestedFunc1 = sum(3);
+        let nestedFunc2 = nestedFunc1(4);
+        let nestedFunc3 = nestedFunc2(5);
+        console.log(nestedFunc3)    // output : 12
+
+3- bind
+    simple function form:
+        function sum(num1, num2, num3){
+            return num1 + num2 + num3;
+        }
+    Doing same work as manual & arrow function curying with bind
+        let nestedFunc1 = sum.bind(null, 3);
+        let nestedFunc2 = nestedFunc1.bind(null, 4);
+        console.log(nestedFunc2(5))    // output : 12
+        

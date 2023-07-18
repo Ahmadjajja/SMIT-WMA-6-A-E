@@ -1,0 +1,6 @@
+// Currying is a technique in functional programming that involves transforming a function with multiple
+// arguments into a sequence of functions, each taking only one argument. The curried function returns a
+// new function for each argument, allowing partial application of arguments.
+
+// This transformation allows for partial application of arguments, meaning you can provide some arguments
+// upfront and later provide the remaining arguments when needed.

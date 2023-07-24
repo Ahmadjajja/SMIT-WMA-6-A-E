@@ -1,0 +1,11 @@
+let c = 2;
+function outer(){
+    let b = 3;
+    function inner(){
+        let a = 4;
+        return a + b + c;
+    }
+    return inner;
+}
+let innerFunc = outer();
+console.log(innerFunc());   // 9

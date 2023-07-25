@@ -98,9 +98,9 @@ This repository contains materials for a JavaScript class covering the following
 ## Most Advanced Concepts
 - Generator function
 - Hoisting <hr/>
-# Remaining Topics
 - Curying
 - Closures
+# Remaining Topics
 - Prototyping
   
 

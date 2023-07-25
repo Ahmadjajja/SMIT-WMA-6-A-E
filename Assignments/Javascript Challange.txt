@@ -1,0 +1,38 @@
+Number to word conversion
+Case 1-
+
+input : 1
+output : one
+
+Case 2-
+
+input : 5053
+output : five thousand fifty three
+
+Case 2-
+
+input : 5053345
+output : fifty lakhs fifty three thousand three hundred fourty five
+
+function numberToWordConversion(n){
+    
+}
+let input = ----------;
+console.log(numberToWordConversion(input));
+
+
+==========================Thought Process=============================
+1, 2, 3, 4, 5
+
+let arr = ["one", "two", "three", "four", "five"]
+for(let i = 1, i <= arr.length; i++){
+    console.log(arr[i - 1]);
+}
+
+
+// Take unique elements
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+zero, one, two, three, four, five, six, seven, eight, nine
+ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen,seventeen, eighteen, ninteen
+twenty, thirty, fourty, fifty, sixty, seventy, eighty, ninty, hundred, thousand, lakh, 
+million, billion, trillion

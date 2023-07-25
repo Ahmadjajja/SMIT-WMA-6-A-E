@@ -87,3 +87,83 @@ let multilpyByThird = multilpyBySecond.bind(null, 4);
 
 console.log(multilpyByThird);
 console.log(multilpyByThird(3));
+
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+function sum(num1, num2, num3, num4) {
+  return num1 + num2 + num3 + num4;
+}
+sum(2, 3, 4, 5);
+
+// Curying form
+function sumCurry(num1) {
+  return function (num2) {
+    return function (num3) {
+      return function (num4) {
+        return num1 + num2 + num3 + num4;
+      };
+    };
+  };
+}
+
+let nestedFunc1 = sumCurry(2);
+// // nestedFunc1 = function (num2) {
+// //   return function (num3) {
+// //     return function (num4) {
+// //       return num1 + num2 + num3 + num4;
+// //     };
+// //   };
+// // };
+let nestedFunc2 = nestedFunc1(3);
+// // nestedFunc2 = function (num3) {
+// //   return function (num4) {
+// //     return num1 + num2 + num3 + num4;
+// //   };
+// // };
+
+// let nestedFunc3 = nestedFunc2(4);
+// // nestedFunc3 = function (num4) {
+// //   return num1 + num2 + num3 + num4;
+// // };
+// let nestedFunc4 = nestedFunc3(5);
+// // nestedFunc4 = 14
+
+sumCurry(2)(3)(4)(5); // 14

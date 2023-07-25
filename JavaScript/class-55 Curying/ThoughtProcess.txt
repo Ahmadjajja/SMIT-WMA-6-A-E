@@ -1,7 +1,8 @@
 Currying
     - Special technique in functional programming in which origional function is 
     transformed into another form. Where sequence of nested functions holds.
-    - Total number of functions in curying concept = number of arguments 
+    - Each nested function must one argument
+    - Total number of functions in curying concept = number of arguments in origional function
 Types of curying
     There may be multiple types but we discussed here only three:
     1- Manual curying

@@ -1,0 +1,24 @@
+𝐖𝐡𝐚𝐭 𝐢𝐬 𝐄𝐯𝐞𝐧𝐭 𝐋𝐨𝐨𝐩 🗓 🌀 ➿ 
+
+The Event Loop is a key concept in JavaScript that helps with handling 𝒂𝒔𝒚𝒏𝒄𝒉𝒓𝒐𝒏𝒐𝒖𝒔 code. In simple terms, it’s a loop
+that constantly checks if any code needs to be executed, and if so, it executes that code.
+
+When you run a piece of code that takes some time to complete, like fetching data from a server or waiting for a user’s
+input, JavaScript 𝒅𝒐𝒆𝒔𝒏’𝒕 just 𝒔𝒕𝒐𝒑 and wait for that code to 𝒇𝒊𝒏𝒊𝒔𝒉. Instead, it moves on to the 𝒏𝒆𝒙𝒕 line of code, and checks
+back later to see if the 𝒑𝒓𝒆𝒗𝒊𝒐𝒖𝒔 code has finished executing.
+
+This checking process is done by the 𝑬𝒗𝒆𝒏𝒕 𝑳𝒐𝒐𝒑. It constantly checks the 𝒒𝒖𝒆𝒖𝒆 of tasks that need to be executed, and when 
+it finds one, it puts it in the 𝑪𝒂𝒍𝒍 𝑺𝒕𝒂𝒄𝒌, which is a data structure that keeps track of all the code being executed. The 
+Call Stack then executes that code, and once it’s done, it removes it from the 𝒔𝒕𝒂𝒄𝒌 and moves on to the next task.
+
+In summary, the Event Loop is what allows JavaScript to handle asynchronous code by constantly checking for tasks that need 
+to be executed, and executing them in the right order.
+
+Now, within the event loop, there are two types of tasks 👨‍🏭 
+𝒎𝒊𝒄𝒓𝒐𝒕𝒂𝒔𝒌𝒔 and 𝒎𝒂𝒄𝒓𝒐𝒕𝒂𝒔𝒌𝒔. 
+
+𝑴𝒊𝒄𝒓𝒐𝒕𝒂𝒔𝒌𝒔 are small, high-priority tasks that need to be executed immediately. Examples of microtasks include promise 𝘤𝘢𝘭𝘭𝘣𝘢𝘤𝘬𝘴, 
+𝘮𝘶𝘵𝘢𝘵𝘪𝘰𝘯 𝘰𝘣𝘴𝘦𝘳𝘷𝘦𝘳𝘴, and 𝘲𝘶𝘦𝘶𝘦𝘔𝘪𝘤𝘳𝘰𝘵𝘢𝘴𝘬(). 🎙 
+
+𝑴𝒂𝒄𝒓𝒐𝒕𝒂𝒔𝒌𝒔 are larger, lower-priority tasks that can be executed later. These tasks include things like 𝘴𝘦𝘵𝘛𝘪𝘮𝘦𝘰𝘶𝘵(), 𝘴𝘦𝘵𝘐𝘯𝘵𝘦𝘳𝘷𝘢𝘭(), 
+and 𝘳𝘦𝘲𝘶𝘦𝘴𝘵𝘈𝘯𝘪𝘮𝘢𝘵𝘪𝘰𝘯𝘍𝘳𝘢𝘮𝘦(). 

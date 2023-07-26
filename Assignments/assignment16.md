@@ -13,4 +13,4 @@ Once you have completed the assignment, push your Exercies code and Concurrency 
 Kindly ensure that you complete your assignments before the next class. During the next session, each student will be required to present their Assignment in class. <br />
 
 We appreciate your efforts and look forward to reviewing your assignments. <br />
-Submission URL will be shared soon. <br />
+Submission URL will be shared soon.. <br />

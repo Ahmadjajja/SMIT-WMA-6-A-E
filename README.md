@@ -1,5 +1,5 @@
 ﻿# Welcome to the Web and Mobile Application Development class repository!
- 
+
 This repository has been created to provide you with practical examples of the concepts covered in each class. Our goal is to help you better understand the theoretical concepts by providing you with real-world scenarios and code samples.
 
 ![Alt Text](https://res.cloudinary.com/jajja-group-of-company/image/upload/v1681415968/fnucgzuzmcgiisevqvlb.jpg) .<br />
@@ -183,7 +183,14 @@ This repository has been created to provide you with practical examples of the c
                     <sub><b>Bashaar Chohan</b></sub>
                 </a> 
             </td>
-        </tr> 
+            <td align="center">
+                <a href="https://github.com/hassangulzar1">
+                    <img src="https://avatars.githubusercontent.com/u/122821437?v=4" width="100px;" alt="Bashaar Chohan"/>
+                    <br />
+                    <sub><b>M.Hassan Gulzar</b></sub>
+                </a> 
+            </td>
+        </tr>
 
 </tbody>
 <table>

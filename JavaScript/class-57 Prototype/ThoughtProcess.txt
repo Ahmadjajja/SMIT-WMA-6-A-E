@@ -1,0 +1,56 @@
+Prototype Visualy representation :-
+Note - Every object in javascript have prototype
+let cowObject =  { color: "Brown" }                          | prototype of cow = {age: "10"}        | null
+
+
+
+
+cowObject ====================> constructor =================> Prototype ===========================> Prototype ===========================> Prototype
+|                           |                              |                                             -
+is object                   1- creates object              1- blueprint                             -
+                            2- used for accessing          2- It self object                    -           (This center vertical show prototype chain)
+                               prototype                                                -
+                                                                                -
+cowObject1 ====================> constructor =================> Prototype ===========================> Prototype
+|                           |                              |
+is object                   1- creates object              1- blueprint
+                            2- used for accessing          2- It self object
+                               prototype
+
+
+
+
+Method for accessing prototype of object
+1- console.log(myObj.constructor.prototype)
+2- console.log(myObj.__proto__)
+
+3 things comes in protyping concept:
+1- object
+2- constructor function
+3- prototype chain
+
+
+Note Key things here:
+1- Object created through simple braces i.e {}              
+    a - By-default, this have two prototypes
+    b - There may be chain of prototypes upto any numbers
+
+2- Object created through hard code i.e 
+
+        function Cow(color) {
+            this.color = color;
+        }
+        Cow.prototype.age = "10";
+        let cowObject = new Cow("Brown");
+
+    a- By-default, This will have one more prototype than simple method
+    b- There may also chain of prototypes upto any numbers
+
+
+What's the use and what's the importance of prototypes??
+    1- If we does'nt find value in object itself, this will check value from all 
+       prototype untill it found last prototype
+
+
+
+How we can add chain of prototypes??

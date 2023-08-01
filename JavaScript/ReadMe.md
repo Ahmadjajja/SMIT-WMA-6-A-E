@@ -99,8 +99,8 @@ This repository contains materials for a JavaScript class covering the following
 - Generator function
 - Hoisting 
 - Curying
-- Closures <hr/>
-# Remaining Topics
+- Closures 
 - Prototyping
+<hr/>
   
 

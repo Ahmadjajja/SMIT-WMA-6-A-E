@@ -2,7 +2,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Issues][issues-shield]][issues-url] 
 
 This repository has been created to provide you with practical examples of the concepts covered in each class. Our goal is to help you better understand the theoretical concepts by providing you with real-world scenarios and code samples.
 

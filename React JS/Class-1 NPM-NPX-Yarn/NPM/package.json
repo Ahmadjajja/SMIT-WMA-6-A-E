@@ -1,0 +1,14 @@
+{
+  "name": "table",
+  "version": "1.0.0",
+  "description": "I used this table for displaying content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "table": "^6.8.1"
+  }
+}

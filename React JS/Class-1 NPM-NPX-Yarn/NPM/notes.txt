@@ -1,0 +1,24 @@
+package managers
+    - there are two types of package manager available
+        1- NPM  (node package manager)
+        2- Yarn (package manager)
+        3- NPX  (node package execute)
+
+NPM 
+    stands for node package manager.
+    - You can understand it like that It is like a global store where developers from all around the world can
+    add their own packages
+    - It is built in installed in node js.
+
+How to install:
+    1- npm init
+    2- npm install package-name      or     npm i package-name 
+    3- npm uninstall package-name    
+
+
+Note : Installing Node js   -  NPM automatically installed
+                                if (NPM version > 5.2.0){
+                                    - NPX automatically installed with NPM
+                                } else {
+                                    - We have install it by ourself
+                                }

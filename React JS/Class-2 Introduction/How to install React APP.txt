@@ -1,0 +1,8 @@
+1- npx create-react-app my-app
+	used for creating react app
+2- npm start
+	used to run react application
+3- npm run build
+	used to make build of your react application
+		      |		
+		      Used to deploy your react app

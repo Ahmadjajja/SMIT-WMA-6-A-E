@@ -1,0 +1,15 @@
+Hi there! Here are some topics we will cover in our first lecture on React JS:
+
+	1-Introduction to React JS: What is React JS? Why use React JS?
+
+	2-React JS components: What are components? How to create components?
+
+	3-State and props: What are state and props? How to use state and props in components?
+
+	4-React DOM: How React JS interacts with the DOM?
+
+	5-React lifecycle methods: What are lifecycle methods? How to use lifecycle methods in components?
+
+	6-React hooks: What are hooks? How to use hooks in components?
+
+	7-React testing: How to test React components?

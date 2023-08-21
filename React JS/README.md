@@ -50,7 +50,7 @@ Welcome to the React.js course! This course aims to provide you with a comprehen
 - Custom hooks and their significance
 - Working with APIs using useEffect
 - Performance optimization techniques
-
+# Advanced Concept
 ## Redux for State Management
 - Introduction to Redux
 - Actions, reducers, and Redux store

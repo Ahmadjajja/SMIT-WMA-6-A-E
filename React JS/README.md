@@ -12,7 +12,6 @@ Welcome to the React.js course! This course aims to provide you with a comprehen
 - Introduction to JSX (JavaScript XML)
 - Components and Props
 - Creating functional components
-- Props
 
 ## Styling in React
 - Styling methods in React (CSS, inline styles, CSS modules)

@@ -3,7 +3,7 @@
 ## Course Overview
 Welcome to the React.js course! This course aims to provide you with a comprehensive understanding of React.js, a popular JavaScript library for building dynamic user interfaces. Through hands-on exercises and projects, you will gain the skills needed to create interactive web applications.
 
-### Prerequisites
+### Prerequisites 
 - Basic knowledge of HTML, CSS, and JavaScript.
 
 ## Introduction to React.js

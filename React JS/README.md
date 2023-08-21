@@ -59,9 +59,4 @@ Welcome to the React.js course! This course aims to provide you with a comprehen
 - Advanced Redux concepts
 - Asynchronous actions with Redux Thunk
 - Debugging Redux applications
-
-## Week 8: Project Week
-- Collaborate on a hands-on project applying the learned concepts
-- Develop a complete React.js application with multiple components, state management, and routing
-
 ---

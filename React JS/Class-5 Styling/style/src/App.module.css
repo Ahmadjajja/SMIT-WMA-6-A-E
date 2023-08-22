@@ -1,0 +1,11 @@
+.headingStyle {
+  background-color: green;
+  border: 2px yellow solid;
+  text-align: center;
+}
+
+.pStyle {
+  background-color: darkviolet;
+  border: 3px brown dotted;
+  color: white;
+}

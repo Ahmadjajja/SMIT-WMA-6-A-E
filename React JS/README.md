@@ -17,7 +17,6 @@ Welcome to the React.js course! This course aims to provide you with a comprehen
 - Styling methods in React (CSS, inline styles, CSS modules)
 - Using CSS frameworks (Bootstrap, Material-UI)
 - Integrating CSS frameworks with React
-- CSS-in-JS libraries and their benefits
 
 ## State and Lifecycle
 - State and its importance

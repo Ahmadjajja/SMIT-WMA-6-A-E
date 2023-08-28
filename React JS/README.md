@@ -20,7 +20,7 @@ Welcome to the React.js course! This course aims to provide you with a comprehen
 
 ## State and Lifecycle
 - State and its importance
-- Using setState() method
+- Using useState() Hook
 - Component lifecycle methods
 - Handling events in React
 - Introduction to controlled components

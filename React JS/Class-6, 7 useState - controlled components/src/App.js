@@ -1,11 +1,13 @@
 import React from "react";
+// import CounterApp from "./Counter/CounterApp";
 import UseState from "./Hooks/UseState";
-function App() {
+const App = () => {
   return (
     <div>
+      {/* <CounterApp /> */}
       <UseState />
     </div>
   );
-}
+};
 
 export default App;

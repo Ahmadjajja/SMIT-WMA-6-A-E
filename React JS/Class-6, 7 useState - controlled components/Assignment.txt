@@ -1,0 +1,2 @@
+1- Convert atleast 5 custom website(HTML, CSS / Bootstrap) to reactjs web application
+2- Make counter app with beautiful design

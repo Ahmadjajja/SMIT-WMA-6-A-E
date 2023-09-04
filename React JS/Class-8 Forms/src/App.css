@@ -1,0 +1,17 @@
+/* h1 {
+  background-color: green;
+  border: 2px yellow solid;
+  text-align: center;
+}
+
+p {
+  background-color: darkviolet;
+  border: 3px brown dotted;
+  color: white;
+} */
+h1 {
+  border: 4px green solid;
+}
+p {
+  color: red;
+}

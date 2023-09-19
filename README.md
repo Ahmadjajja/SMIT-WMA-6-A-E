@@ -212,4 +212,4 @@ Our repository contains code samples for every class we offer at the training la
 
 ## How to Use This Repository?
 
-To use this repository, simply navigate to the class you're interested in and select the code sample you'd like to view. You can then study the code and explanation to gain a deeper understanding of the concepts covered in class. This repository is a valuable resource for anyone looking to improve their development skills, and we encourage you to make use of it.
+To use this repository, simply navigate to the class you're interested in and select the code sample you'd like to view. You can then study the code and explanation to gain a deeper understanding of the concepts covered in class. This repository is a valuable resource for anyone looking to improve their development skills, and we encourage you to make use of it!

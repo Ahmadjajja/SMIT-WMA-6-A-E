@@ -1,0 +1,23 @@
+-----------------------------------------> 1 - Create <----------------------------------------
+=>	Add two inputs 
+
+=>	Add one button
+
+=> 	Store that data into context
+
+-----------------------------------------> 2 - Read<----------------------------------------
+=>	Add one button - for reading data
+
+=>	Read data from context
+
+-----------------------------------------> 3 - Update<----------------------------------------
+=>	Click on update button --- >  given in list item ----> show popup for taking input from user
+
+=>	Update that data into the context in place of same id
+
+-----------------------------------------> 4 - Delete<----------------------------------------
+=>	Click on delete button --- >  given in list item to delete
+
+
+
+---------------------------------------Best of Luck --------------------------------------------------------

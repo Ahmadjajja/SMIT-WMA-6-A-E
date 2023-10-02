@@ -1,6 +1,8 @@
 import React, { useState } from "react";
+import { createUserWithEmailAndPassword } from "firebase/auth";
+import { auth } from "../../Config/firebase";
+import { useNavigate } from "react-router-dom";
 const initialState = { email: "", password: "", confirmPassword: "" };
-
 function Register() {
   const [state, setState] = useState(initialState);
   const [isProcessing, setIsProcessing] = useState(false);
@@ -8,19 +10,37 @@ function Register() {
   const handleChange = (e) => {
     setState({ ...state, [e.target.name]: e.target.value });
   };
+  const Navigate = useNavigate();
   const handleSubmit = (e) => {
     e.preventDefault();
     setIsProcessing(true);
 
-    console.log(state);
-
     const { email, password, confirmPassword } = state;
-    console.log("email : ", email, "password : ", password);
 
     if (confirmPassword !== password) {
-      window.toastify("Password doesn't match", "error");
+      window.toastify("Confirm password wrong", "error");
       return;
     }
+
+    createUserWithEmailAndPassword(auth, email, password)
+      .then((userCredential) => {
+        // Signed up
+        const user = userCredential.user;
+        window.toastify("User logged in successfuly!!", "success");
+        Navigate("/dashboard");
+        // ...
+      })
+      .catch((error) => {
+        const errorCode = error.code;
+        const errorMessage = error.message;
+        console.error(error);
+        window.toastify(error.message, "error");
+        // ..
+      })
+      .finally(() => {
+        setState(initialState);
+        setIsProcessing(false);
+      });
   };
 
   return (

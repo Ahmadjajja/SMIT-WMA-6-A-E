@@ -4,7 +4,9 @@ import {
   onAuthStateChanged,
   signOut,
 } from "firebase/auth";
+import { useNavigate } from "react-router-dom";
 import { auth } from "../../Config/firebase";
+import { useAuthContext } from "../../Context/AuthContext";
 const initialState = { email: "", password: "" };
 
 export default function Login() {
@@ -12,6 +14,7 @@ export default function Login() {
   const [user, setUser] = useState({});
   const [isLoading, setIsLoading] = useState(false);
   const [currentUser, setCurrentUser] = useState({});
+  const { setIsAuthenticated } = useAuthContext();
   useEffect(() => {
     onAuthStateChanged(auth, (user) => {
       if (user) {
@@ -31,7 +34,7 @@ export default function Login() {
   const handleChange = (e) => {
     setState({ ...state, [e.target.name]: e.target.value });
   };
-
+  const Navigate = useNavigate();
   const handleSubmit = (e) => {
     e.preventDefault();
     setIsLoading(true);
@@ -46,6 +49,8 @@ export default function Login() {
         // Signed in
         const user = userCredential.user;
         window.toastify("User logged in successfuly!!", "success");
+        setIsAuthenticated(true);
+        Navigate("/dashboard");
         // ...
       })
       .catch((error) => {
@@ -65,6 +70,7 @@ export default function Login() {
         // Sign-out successful.
         window.toastify("User signOut Successfully!!", "success");
         setUser({});
+        setIsAuthenticated(false);
       })
       .catch((error) => {
         // An error happened.

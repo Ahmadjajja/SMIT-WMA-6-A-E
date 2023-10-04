@@ -2,11 +2,12 @@ import React, { useState } from "react";
 import { createUserWithEmailAndPassword } from "firebase/auth";
 import { auth } from "../../Config/firebase";
 import { useNavigate } from "react-router-dom";
+import { useAuthContext } from "../../Context/AuthContext";
 const initialState = { email: "", password: "", confirmPassword: "" };
 function Register() {
   const [state, setState] = useState(initialState);
   const [isProcessing, setIsProcessing] = useState(false);
-
+  const { setIsAuthenticated } = useAuthContext();
   const handleChange = (e) => {
     setState({ ...state, [e.target.name]: e.target.value });
   };
@@ -27,6 +28,7 @@ function Register() {
         // Signed up
         const user = userCredential.user;
         window.toastify("User logged in successfuly!!", "success");
+        setIsAuthenticated(true);
         Navigate("/dashboard");
         // ...
       })

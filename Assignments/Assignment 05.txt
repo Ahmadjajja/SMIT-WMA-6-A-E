@@ -1,22 +1,20 @@
 📢 Announcement 📢
 
-- Assignment: 05
-- Total Marks: 10
-- Due Date: Jan, 09 2023
+Web Designing Crash Course Hackathon
 
 Hello everyone!
 
-I hope you are all doing well and keeping up with the assignments. we're going to build a landing page based on the design provided in the Figma file. 
+I hope you are all doing well and keeping up with the assignments. we're going to build a website based on the design provided in the Figma file. 
 
-But that's not all - you will also need to make sure that your landing page is fully responsive, so it looks great on any device. This is an important skill to have as a developer, so make sure to put in your best effort!
+But that's not all - you will also need to make sure that your website is fully responsive, so it looks great on any device. This is an important skill to have as a developer, so make sure to put in your best effort!
 
 I know some of you may be feeling a little overwhelmed with all of the work we've been doing lately, but I know you're capable of producing some amazing work. So let's get to it!
 
-As always, if you have any questions or need help, don't hesitate to reach out to me or your classmates. Let's make this a fun and productive week.
+As always, if you have any questions or need help, don't hesitate to reach out to me or your classmates. Let's make this a fun and productive Hackathon.
 
 Good luck, and have fun!
 
-Figma: https://drive.google.com/file/d/1KtjFn_6twUJ1hRUURZyCllY1KLlu7sM_/view?usp=share_link
+Figma: https://www.figma.com/file/SgnKJLWcucpXyQZebrYcUz/AI-Posdcast?type=design&node-id=0-1&mode=design&t=r0Ra6lhC43kJZ9wJ-0
 Submission: https://forms.gle/fHobphQpuCx4YqLd6
 
 Best Regards,
